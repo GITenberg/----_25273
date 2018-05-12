@@ -1,0 +1,28 @@
+_repo: '----_25273'
+_version: 0.1.0
+alternative_title: Tian Gong Kai Wu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Song, Yingxing
+    alias: 宋應星
+    birthdate: 1587
+    gutenberg_agent_id: '31202'
+    url: http://www.gutenberg.org/2009/agents/31202
+description: ''
+gutenberg_issued: '2008-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25273'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- China -- History'
+- !lcsh 'Technology -- China -- History'
+- !lcc 'Q'
+title: 天工開物
+url: http://www.gutenberg.org/ebooks/25273
